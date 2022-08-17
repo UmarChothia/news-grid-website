@@ -1,1 +1,1 @@
-# news-grid-website
+# newsgrid-website
